@@ -1,8 +1,19 @@
-fight-state-violence/
-├── index.html               # Homepage
-├── ice.html                 # ICE / Detention issue
-├── gaza.html                # Gaza / Palestine issue
-├── police-violence.html     # Police brutality issue
-├── lgbtq-rights.html        # LGBTQ+ rights
-├── styles.css               # Shared CSS styling (optional)
-└── images/                  # Folder for any shared images
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fight State Violence</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<nav>
+  <a href="index.html">Home</a>
+  <a href="ice.html">Stop ICE</a>
+  <a href="gaza.html">Gaza Solidarity</a>
+  <a href="police-violence.html">Police Brutality</a>
+  <a href="lgbtq-rights.html">LGBTQ+ Rights</a>
+</nav>
+
+<h1>Fight State Violence</h1>
+<p>This is an activist resource hub for fighting injustice in all forms.</p>
+</body>
+</html>
