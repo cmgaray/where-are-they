@@ -1,0 +1,8 @@
+fight-state-violence/
+├── index.html               # Homepage
+├── ice.html                 # ICE / Detention issue
+├── gaza.html                # Gaza / Palestine issue
+├── police-violence.html     # Police brutality issue
+├── lgbtq-rights.html        # LGBTQ+ rights
+├── styles.css               # Shared CSS styling (optional)
+└── images/                  # Folder for any shared images
